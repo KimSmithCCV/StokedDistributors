@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Jared Stokes portrait placeholder</title>
+  <desc id="desc">A simple portrait placeholder for Jared Stokes, featuring a warm neutral background and a stylized silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#efe5d4"/>
+      <stop offset="100%" stop-color="#d8cab0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="400" cy="245" r="120" fill="#2b3a2e" opacity="0.9"/>
+  <path d="M268 540c18-104 86-154 132-154s114 50 132 154" fill="#c4622d" opacity="0.9"/>
+  <path d="M327 220c20-44 49-66 73-66s53 22 73 66v57h-146z" fill="#d9b88f"/>
+  <path d="M355 270c18 20 52 20 70 0l21 73H334z" fill="#f0d5b0" opacity="0.85"/>
+  <rect x="160" y="118" width="480" height="12" fill="#2b3a2e" opacity="0.14"/>
+  <rect x="180" y="470" width="440" height="18" fill="#2b3a2e" opacity="0.12"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#2b3a2e" letter-spacing="2">JARED STOKES</text>
+</svg>
