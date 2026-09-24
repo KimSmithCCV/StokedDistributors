@@ -306,7 +306,7 @@ img { max-width: 100%; display: block; }
 .capital-call__sub { color: rgba(242, 237, 225, 0.82); font-size: 1.08rem; }
 
 /* ---------- how to order ---------- */
-.order { padding: 42px 0 0; }
+.order { padding: 42px 28px 0; }
 .order h2 { max-width: 20ch; }
 .order__grid {
   display: grid;
@@ -533,7 +533,6 @@ img { max-width: 100%; display: block; }
 }
 
 @media (max-width: 520px) {
-  #how-to-order.order { padding-left: 28px; padding-right: 28px; }
   .stats__grid { grid-template-columns: 1fr; }
   .stat { border-left: none !important; border-top: 1px solid var(--line-light); }
   .stat:first-child { border-top: none; }
