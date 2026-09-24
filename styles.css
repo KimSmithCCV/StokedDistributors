@@ -533,7 +533,7 @@ img { max-width: 100%; display: block; }
 }
 
 @media (max-width: 520px) {
-  .order { padding-left: 28px; padding-right: 28px; }
+  #how-to-order.order { padding-left: 28px; padding-right: 28px; }
   .stats__grid { grid-template-columns: 1fr; }
   .stat { border-left: none !important; border-top: 1px solid var(--line-light); }
   .stat:first-child { border-top: none; }
