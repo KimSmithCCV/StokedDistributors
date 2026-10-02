@@ -1,2 +1,0 @@
-Placeholder for: Current Price List
-Replace this file with the real PDF at the same path (update the extension/link in index.html).
